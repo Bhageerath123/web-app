@@ -1,0 +1,13 @@
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>login page</title>
+</head>
+<body>
+<form action="Logincontroller" method="post">
+NAME:<input type="text" name="userid"/><br/>
+PASSWORD:<input type="text" name="password"/>
+<input type="submit" value="login"/>
+</form>
+</body>
+</html>
